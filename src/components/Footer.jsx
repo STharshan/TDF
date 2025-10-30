@@ -112,7 +112,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="mt-10 border-t border-gray-700 pt-6 text-center text-sm text-gray-400">
         © 2025 All Right Reserved by{" "}
-        <span className="text-primary ">Grabui</span> | Powered by{" "}
+        <span className="text-primary ">TDF TheLab Sports & Performance Gym</span> | Powered by{" "}
         <span className="text-primary">Ansely</span>
       </div>
     </footer>
